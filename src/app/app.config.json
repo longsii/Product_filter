@@ -1,0 +1,15 @@
+{
+	"appname": "Product_filter",
+	"scope": "FullAccess",
+	"clientid": "0F45BBB6-8A41-4255-9142-F6A77C078240",
+	"buyerid": "web_buyer",
+	"catalogid": "web_buyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
